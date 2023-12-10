@@ -1,4 +1,4 @@
-torch==1.7.1+cu110
+torch==2.1.1+cu123
 torchsde
 einops
 transformers>=4.25.1
